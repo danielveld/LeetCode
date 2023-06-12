@@ -15,7 +15,7 @@ For my solutions, I use Python since it is an easy and quick language. This way,
 
 ## Navigation
 
-- the summary folder is for explaining algorithms
+- [summary](Summary]: the summary folder is for explaining algorithms
 - the Blind75 is a list of 75 essential LeetCode solutions
 - in the AllProblems folder I store all LeetCode solutions
 ## Roadmap
